@@ -1,1 +1,1 @@
-export const fetchUrl = process.env.NODE_ENV === "development" ? ("http://localhost:3030/") : ("https://thereelview.herokuapp.com");
+export const fetchUrl = process.env.NODE_ENV === "development" ? ("http://localhost:3030/") : ("https://thereelview.herokuapp.com/");
